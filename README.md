@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ERojin
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning algoritma 
 - 📫 You can reach me from eylulrojingunduz@gmail.com
 
 <!---
